@@ -1,2 +1,2 @@
-# sad
-AV2 SAD
+# Sistemas de Apoio a Decisão
+Phyton
